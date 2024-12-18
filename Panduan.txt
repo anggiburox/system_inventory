@@ -1,0 +1,11 @@
+Aplikasi sederhana system inventory menggunakan Laravel untuk backend dan Vue untuk frontend dan database yang digunakan adalah MySQL
+Berikut penjelasannya:
+
+1. system_inventory_app merupakan projek yang menggunakan Vue front end
+2. system_inventory merupakan projek yang menggunakan Laravel backend
+3. db_system_inventory.sql merupakan nama database yang digunakan
+4. System Inventory.postman_collection merupakan PostMan collection file yang digunakan untuk mengelola API
+5. Copy link GitHub projek tersebut kemudian clone projek sesuai tempat penyimpanan anda atau extract projek tersebut
+6. Kemudian export file json dan file sql
+7. Jalankan aplikasi tersebut
+
